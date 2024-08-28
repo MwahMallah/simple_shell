@@ -1,0 +1,18 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "array": "c",
+        "compare": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "istream": "c",
+        "ostream": "c",
+        "special.h": "c",
+        "stdlib.h": "c",
+        "list.h": "c",
+        "lexer.h": "c",
+        "algorithm": "c"
+    }
+}

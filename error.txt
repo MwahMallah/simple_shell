@@ -1,0 +1,49 @@
+> [3Gl[4G[4Gs[5G[5G&[6G
+> Makefile
+analyzer.c
+analyzer.h
+analyzer.o
+cmd_line.c
+cmd_line.h
+cmd_line.o
+error.txt
+lexer.c
+lexer.h
+lexer.o
+list.c
+list.h
+list.o
+main
+main.c
+special.c
+special.h
+special.o
+util.c
+util.h
+util.o
+[3Gl[4G[4Gs[5G[5G&[6G
+> Makefile
+analyzer.c
+analyzer.h
+analyzer.o
+cmd_line.c
+cmd_line.h
+cmd_line.o
+error.txt
+lexer.c
+lexer.h
+lexer.o
+list.c
+list.h
+list.o
+main
+main.c
+special.c
+special.h
+special.o
+util.c
+util.h
+util.o
+[3Gl[4G[4Gs[5G[5G [6G[6G"[7G[7G [8G[8Gg[9G[9Gr[10G[10Ge[11G[11Gp[12G[12G [13G[13G"[14G[14G\[15G[15G.[16G[16Gc[17G[17G|[18G
+ls: cannot access ' grep ': No such file or directory
+ls: cannot access '\.c': No such file or directory
