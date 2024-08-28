@@ -13,11 +13,12 @@ A toy command-line interpreter built for learning, offering essential features l
 ## Background Execution 🚀
 
    - Execute commands in the background by appending & to your command.
-## Line Formatting ✍️
+## Line Formatting ✍️ 
 
-    - Enhanced line editing capabilities, including the ability to move the cursor using arrow keys and insert or modify text at any position.
+ - Enhanced line editing capabilities, including the ability to move the cursor using arrow keys and insert or modify text at any position.
 ## Autocompletion on Tab 💡
-    - Autocompletion by pressing Tab, helping navigate through file paths.
+
+ - Autocompletion by pressing Tab, helping navigate through file paths.
 ## Signal Handling & Process Group Management ⚙️
 
    - Usage of process groups ensures that only the foreground process group receives signals like SIGINT (pressing Ctrl+C), leaving the shell itself unaffected.
